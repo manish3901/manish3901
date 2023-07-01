@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manish Sidhenkiwar.
-- 👀 I’m an AIML Enthusiast,interested in learning & solving real world problems using Machine learning algorithms.
-- 🌱 I’m currently mastering my ML CONCEPTS.
+- 👀 I’m an AIML Engineer,interested in learning & solving real world problems using Machine learning algorithms.
+- 🌱 I’m currently mastering my DeepLearning & NLP CONCEPTS.
 - 💞️ I’m looking to collaborate on different real world industry projects to solve real world problems.
 - I believe we can solve basic problems like poverty,access to education,health using tech we have in our hands.
 - So lets connect,contribute & build a better world together.😊
